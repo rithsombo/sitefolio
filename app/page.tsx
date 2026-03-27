@@ -473,7 +473,7 @@ export default function Page() {
             </Button>
           </div>
         </div>
-        <RetroGrid className="fixed -bottom-4 0 " />
+        <RetroGrid className="fixed -bottom-40 " />
       </div>
     </div>
   )
