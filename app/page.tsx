@@ -443,12 +443,12 @@ export default function Page() {
 
       <div
         id="final-cta"
-        className="relative flex h-[500px] w-full flex-col items-center justify-center overflow-hidden border bg-transparent"
+        className="relative flex h-[500px] w-full flex-col items-center justify-center overflow-hidden  bg-transparent"
       >
         {/* <span className="pointer-events-none z-10 bg-linear-to-b from-[#ffd319] via-[#ff2975] to-[#8c1eff] bg-clip-text text-center text-7xl leading-none font-bold tracking-tighter whitespace-pre-wrap text-transparent">
         Retro Grid
       </span> */}
-        <div className="mx-auto max-w-4xl rounded-[2.5rem] border border-border bg-transparent px-8 py-12 text-center backdrop-blur-sm md:px-12 md:py-16">
+        <div className="mx-auto max-w-4xl rounded-[2.5rem] bg-transparent px-8 py-12 text-center backdrop-blur-sm md:px-12 md:py-16">
           <div className="text-xs tracking-[0.3em] text-foreground uppercase">
             Start Today
           </div>
